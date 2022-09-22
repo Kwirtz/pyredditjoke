@@ -1,0 +1,4 @@
+client_name: mongodb://localhost:27017
+db_name: jokes
+collection_name: reddit
+
