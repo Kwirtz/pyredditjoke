@@ -14,7 +14,7 @@ setup(
   description='Download reddit jokes',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
-  author='Joshua Lowe',
+  author='Kevin Wirtz',
   author_email='kevin.wirtz@unistra.fr',
   license='MIT', 
   classifiers=classifiers,
